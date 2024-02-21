@@ -1,4 +1,4 @@
-const typeDefs = `
+const typeDefs = `#graphql
   type Game {
     _id: ID!
     title: String!
