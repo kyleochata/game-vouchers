@@ -64,9 +64,6 @@ const typeDefs = `
     addRating(rating: int! ): Rating
     addTag(tag: String! ): Tag
     addReview(review: String! ): Review
-
-
-
   }
 
   `
